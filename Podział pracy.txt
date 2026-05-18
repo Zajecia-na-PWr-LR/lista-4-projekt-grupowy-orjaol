@@ -1,0 +1,9 @@
+Podział Pracy:
+---Przemek:
+Wczytanie danych, sprawdzenie danych, usuniecie zbednych komórek, standaryzacja, SVM + drzewo decyzyjne i las losowy
+
+---Tomek:
+wizualizacja danych, macierz korelacji, MLP + Regresja logistyczna + DeepLearning oraz stworzenie ładnego notatnika
+
+---Mateusz:
+wykresy szczegółowe, KNN + Naiwny Bayes
